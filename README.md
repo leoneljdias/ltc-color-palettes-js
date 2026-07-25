@@ -1,4 +1,4 @@
-# @leoneljdias/ltc-color-palettes-js — JavaScript port of the `ltc` R colour-palette package
+# ltc-color-palettes-js
 
 [![npm version](https://img.shields.io/npm/v/@leoneljdias/ltc-color-palettes-js)](https://www.npmjs.com/package/@leoneljdias/ltc-color-palettes-js)
 [![npm downloads](https://img.shields.io/npm/dm/@leoneljdias/ltc-color-palettes-js)](https://www.npmjs.com/package/@leoneljdias/ltc-color-palettes-js)

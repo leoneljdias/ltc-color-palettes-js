@@ -1,7 +1,7 @@
 # ltc-color-palettes-js
 
 [![npm version](https://img.shields.io/npm/v/@leoneljdias/ltc-color-palettes-js)](https://www.npmjs.com/package/@leoneljdias/ltc-color-palettes-js)
-[![npm downloads](https://img.shields.io/npm/dm/@leoneljdias/ltc-color-palettes-js)](https://www.npmjs.com/package/@leoneljdias/ltc-color-palettes-js)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/@leoneljdias/ltc-color-palettes-js)](https://bundlephobia.com/package/@leoneljdias/ltc-color-palettes-js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A JavaScript port of [loukesio/ltc-color-palettes](https://github.com/loukesio/ltc-color-palettes), originally written in R, reimplemented in JavaScript with the same palettes and equivalent functionality. All palette designs and original artwork credit: **Loukas Theodosiou**.

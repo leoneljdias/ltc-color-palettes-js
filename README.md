@@ -6,7 +6,7 @@
 
 A JavaScript port of [loukesio/ltc-color-palettes](https://github.com/loukesio/ltc-color-palettes), originally written in R, reimplemented in JavaScript with the same palettes and equivalent functionality. All palette designs and original artwork credit: **Loukas Theodosiou**.
 
-📖 **Website & interactive palette explorer:** [https://leoneljdias.github.io/ltc-js/demo/](https://leoneljdias.github.io/ltc-js/demo/)
+📖 **Website & interactive palette explorer:** [https://leoneljdias.github.io/ltc-color-palettes-js/demo/](https://leoneljdias.github.io/ltc-color-palettes-js/demo/)
 
 ## Install
 

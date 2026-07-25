@@ -9,6 +9,8 @@ A JavaScript port of [loukesio/ltc-color-palettes](https://github.com/loukesio/l
 
 📖 **Website & interactive palette explorer:** [https://leoneljdias.github.io/ltc-color-palettes-js/demo/](https://leoneljdias.github.io/ltc-color-palettes-js/demo/)
 
+[![demo](https://raw.githubusercontent.com/leoneljdias/ltc-color-palettes-js/main/demo/screenshot.png)](https://raw.githubusercontent.com/leoneljdias/ltc-color-palettes-js/main/demo/screenshot.png)
+
 ## Install
 
 ```bash

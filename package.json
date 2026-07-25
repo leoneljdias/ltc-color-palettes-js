@@ -1,0 +1,40 @@
+{
+  "name": "@leoneljdias/ltc-color-palettes-js",
+  "version": "1.0.0",
+  "description": "JavaScript port of the ltc R color-palette package by Loukas Theodosiou. Provides art-inspired color palettes with adjust, desaturate, CVD simulation, and visualization functions.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./palettes": "./src/palettes.js"
+  },
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "color-palette",
+    "colors",
+    "data-visualization",
+    "port",
+    "fork",
+    "ltc",
+    "palettes",
+    "color-blind",
+    "cvd"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoneljdias/ltc-color-palettes-js.git"
+  },
+  "homepage": "https://leoneljdias.github.io/ltc-color-palettes-js/demo/",
+  "bugs": {
+    "url": "https://github.com/leoneljdias/ltc-color-palettes-js/issues"
+  },
+  "author": "Loukas Theodosiou (original R package) — JS port by leoneljdias",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
